@@ -11,10 +11,9 @@
 ## 目录
 
 - [使用的框架](#使用的框架)
-- [环境配置 :thought_balloon:](#碎碎念-thought_balloon)
-- [环境配置 :hammer_and_wrench:](#环境配置-hammer_and_wrench)
-- [代码修改 :pencil2:](#代码修改-pencil2)
-- [使用 :hammer_and_wrench:](#使用-hammer_and_wrench)
+- [环境配置](#环境配置)
+- [作者](#作者)
+- [参考项目](#参考项目)
 
 ## 使用的框架
 
