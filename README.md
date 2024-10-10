@@ -1,6 +1,6 @@
 # XIaoYuanKouSuan
 
-小猿口算自动化全方案，含OCR，无障碍，mitmproxy(抓包),frida hook等
+小猿口算自动化全方案，含OCR，无障碍，mitmproxy(抓包),frida hook等，支持自动继续pk，上分必备。
 
 ![Language](https://img.shields.io/badge/language-python-blue?logo=python)
 ![Stars](https://img.shields.io/github/stars/xinyacs/XiaoYuan_Calculation_Automation.svg)
