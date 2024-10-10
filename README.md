@@ -28,7 +28,7 @@
 
 ### Android 模拟器或真实设备
 
-1. [UiAutomator连接]([Python控制安卓模拟器——uiautomator2模块_python -m uiautomator2 init-CSDN博客](https://blog.csdn.net/AZURE060606/article/details/137265580))
+1. [Python控制安卓模拟器——uiautomator2模块_python -m uiautomator2 init-CSDN博客](https://blog.csdn.net/AZURE060606/article/details/137265580)
 2. 设置设备分辨率为1920*1080
 
 
