@@ -16,7 +16,7 @@
 - [代码修改 :pencil2:](#代码修改-pencil2)
 - [使用 :hammer_and_wrench:](#使用-hammer_and_wrench)
 
-## 使用的框架:hammer_and_wrench:
+## 使用的框架
 
 **OCR**:tesseract和CnOCR
 
@@ -24,7 +24,7 @@
 
 **Hook**:frida
 
-## 环境配置:hammer_and_wrench:
+## 环境配置
 
 ### Android 模拟器或真实设备
 
