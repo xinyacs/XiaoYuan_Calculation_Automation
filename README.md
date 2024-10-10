@@ -8,6 +8,12 @@
 ![Issues](https://img.shields.io/github/issues/xinyacs/XiaoYuan_Calculation_Automation.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-green?logo=android)
 
+
+
+![zxad ](sadas )
+
+![zxad ](sadas )
+
 ## 目录
 
 - [使用的框架](#使用的框架)
